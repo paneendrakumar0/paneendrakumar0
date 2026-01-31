@@ -1,5 +1,5 @@
 # Hi, I'm Paneendra Kumar 👋
-**Mechanical Engineering @ NIT Durgapur | Autonomy & Control Lead**
+**Mechanical Engineering @ NIT Durgapur | Robotics Enthusiast**
 
 I am a researcher specializing in **IoT**, **Mechatronics**, **Digital Twin**, and **Sim2Real**. As the **Lead of Autonomy** for ABU Robocon 2026, I focus on integrating intelligent electronic control with precision mechanical design to build the next generation of autonomous hardware.
 
@@ -10,7 +10,7 @@ I am a researcher specializing in **IoT**, **Mechatronics**, **Digital Twin**, a
 | :--- | :--- | :--- |
 | **LeetCode** | ![LeetCode Stats](https://leetcard.jacoblin.cool/WaRRDUFY7j?theme=dark&font=Recursive) | [Profile](https://leetcode.com/u/WaRRDUFY7j/) |
 | **Codeforces** | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=paneendra&theme=dark) | [Profile](https://codeforces.com/profile/paneendra) |
-
+| **Kaggle** | ![Kaggle Stats](https://github-readme-kaggle-stats.vercel.app/api?username=paneendrakumar&theme=dark) | [Profile](https://www.kaggle.com/paneendrakumar) |
 ---
 
 ### 🚀 Technical Expertise
