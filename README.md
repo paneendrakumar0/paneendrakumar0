@@ -10,7 +10,7 @@ I am a researcher specializing in **IoT**, **Mechatronics**, **Digital Twin**, a
 | :--- | :--- | :--- |
 | **LeetCode** | ![LeetCode Stats](https://leetcard.jacoblin.cool/WaRRDUFY7j?theme=dark&font=Recursive) | [Profile](https://leetcode.com/u/WaRRDUFY7j/) |
 | **Codeforces** | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=paneendra&theme=dark) | [Profile](https://codeforces.com/profile/paneendra) |
-| **Kaggle** | ![Kaggle Stats](https://github-readme-kaggle-stats.vercel.app/api?username=paneendrakumar&theme=dark) | [Profile](https://www.kaggle.com/paneendrakumar) |
+| **Kaggle** | [![Kaggle Profile](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/paneendrakumar) | [Profile](https://www.kaggle.com/paneendrakumar) |
 ---
 
 ### 🚀 Technical Expertise
