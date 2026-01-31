@@ -6,8 +6,8 @@
 ### 📊 Competitive Programming & Coding Stats
 | Platform | Rank / Rating | Link |
 | :--- | :--- | :--- |
-| **LeetCode** | ![LeetCode Stats](https://leetcard.jacoblin.cool/paneendrakumar0?theme=dark&font=Recursive) | [Profile](https://leetcode.com/u/paneendrakumar0/) |
-| **Codeforces** | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=paneendrakumar0&theme=dark) | [Profile](https://codeforces.com/profile/paneendrakumar0) |
+| **LeetCode** | ![LeetCode Stats](https://leetcard.jacoblin.cool/WaRRDUFY7j/?theme=dark&font=Recursive) | [Profile]((https://leetcode.com/u/WaRRDUFY7j/)) |
+| **Codeforces** | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=paneendra&theme=dark) | [Profile](https://codeforces.com/profile/paneendra) |
 
 ---
 
