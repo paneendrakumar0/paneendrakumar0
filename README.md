@@ -1,7 +1,5 @@
 # Hi, I'm Paneendra Kumar 👋
-**Mechanical Engineering @ NIT Durgapur | Autonomy & Control Lead**
-
-I am a robotics researcher focused on **Digital Twins**, **Sim-to-Real pipelines**, and **Industrial IoT**. As the **Lead of Autonomy** for ABU Robocon 2026, I specialize in bridging high-fidelity mechanical design with intelligent autonomous logic.
+**Mechanical Engineering @ NIT Durgapur | Autonomy & Control Lead** I am a robotics researcher focused on **Digital Twins**, **Sim-to-Real pipelines**, and **Industrial IoT**. As the **Lead of Autonomy** for ABU Robocon 2026, I specialize in bridging high-fidelity mechanical design with intelligent autonomous logic.
 
 ---
 
@@ -39,6 +37,6 @@ I am a robotics researcher focused on **Digital Twins**, **Sim-to-Real pipelines
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn**: [paneendrakumar](https://www.linkedin.com/in/paneendrakumar/)
-* **Email**: [paneendra100@gmail.com](mailto:paneendra100@gmail.com)
-* **Portfolio**: [paneendra-portfolio.vercel.app](https://paneendra-portfolio.vercel.app/)
+* **LinkedIn:** [paneendrakumar](https://www.linkedin.com/in/paneendrakumar/)
+* **Email:** [paneendra100@gmail.com](mailto:paneendra100@gmail.com)
+* **Portfolio:** [paneendra-portfolio.vercel.app](https://paneendra-portfolio.vercel.app/)
