@@ -1,3 +1,10 @@
+<div align="center">
+  
+[![wakatime-stats](https://github.com/paneendrakumar0/paneendrakumar0/workflows/wakatime-stats/badge.svg)](https://github.com/paneendrakumar0/paneendrakumar0/actions)
+[![update-gh-activity](https://github.com/paneendrakumar0/paneendrakumar0/workflows/update-gh-activity/badge.svg)](https://github.com/paneendrakumar0/paneendrakumar0/actions)
+
+</div>
+
 # Hi, I'm Paneendra Kumar 👋
 **Mechanical Engineering @ NIT Durgapur | Robotics Enthusiast**
 
@@ -54,12 +61,44 @@ hobbies: ["Robotics", "IoT", "Sim Racing"]
 
 ---
 
+### 🎵 Music & Spotify Now Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=5">
+</p>
+
+---
+
 ### ⚡ GitHub Data & Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paneendrakumar0&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paneendrakumar0&layout=compact&theme=dark)
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=paneendrakumar0&theme=react)](https://github.com/paneendrakumar0)
+
+---
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+<!-- Your activity will be automatically inserted here -->
+<!--END_SECTION:activity-->
+
+---
+
+### ⏳ Time Tracking & Dev Metrics
+
+<!--START_SECTION:waka-simple-->
+<!-- Your simple stats will be automatically inserted here -->
+<!--END_SECTION:waka-simple-->
+
+<!--START_SECTION:waka-->
+<!-- Your stats will be automatically inserted here -->
+<!--END_SECTION:waka-->
 
 ---
 
