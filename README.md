@@ -61,6 +61,64 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 
 ---
 
+### ⚡ Recent Activity & GitHub Data
+
+**⚡ Recent Activity:**
+* 🎉 Merged PR #42 in guilyx/btview-vscode-plugin
+* 💪 Opened PR #42 in guilyx/btview-vscode-plugin
+* 🎉 Merged PR #41 in guilyx/btview-vscode-plugin
+* 💪 Opened PR #41 in guilyx/btview-vscode-plugin
+* ❌ Closed PR #40 in guilyx/btview-vscode-plugin
+
+**🐱 My GitHub Data**
+* 📦 551.8 kB Used in GitHub's Storage
+* 🏆 2,265 Contributions in the Year 2026
+* 💼 Opted to Hire
+* 📜 116 Public Repositories
+* 🔑 43 Private Repositories
+
+**I'm a Night 🦉**
+```text
+🌞 Morning                1723 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+🌆 Daytime                7729 commits        ██████████░░░░░░░░░░░░░░░   38.25 % 
+🌃 Evening                7608 commits        █████████░░░░░░░░░░░░░░░░   37.65 % 
+🌙 Night                  3149 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+```
+
+**📊 This Week I Spent My Time On**
+* 🕑︎ Time Zone: Asia/Dubai
+
+**💬 Programming Languages:**
+```text
+Markdown                 6 hrs 47 mins       ███████████░░░░░░░░░░░░░░   45.85 % 
+YAML                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+C++                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+TypeScript               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+```
+
+**🐱💻 Projects:**
+```text
+btview-vscode-plugin     4 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+sirb_autonomy_dev        2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+sirb_lifecycle_manager   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+sirb_autonomy_bringup    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Unknown Project          53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+```
+
+**Total Time (16 July 2020 - 15 June 2026)**
+_Total Time: 2,528 hrs 16 mins_
+```text
+C++                        750 hrs 47 mins ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.70 %
+Python                     394 hrs 46 mins ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.61 %
+Go                         314 hrs 51 mins ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.45 %
+C                          146 hrs 44 mins ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.80 %
+YAML                       145 hrs 4 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.74 %
+TypeScript                 137 hrs 7 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.42 %
+```
+
+---
+
 ### 📫 Connect with Me
 * **LinkedIn:** [paneendrakumar](https://www.linkedin.com/in/paneendrakumar/)
 * **Email:** [paneendra100@gmail.com](mailto:paneendra100@gmail.com)
