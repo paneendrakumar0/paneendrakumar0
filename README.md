@@ -86,7 +86,11 @@ hobbies: ["Robotics", "IoT", "Sim Racing"]
 ### ⏳ Time Tracking & Dev Metrics
 
 <!--START_SECTION:waka-simple-->
-<!-- Your simple stats will be automatically inserted here -->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-simple-->
 
 <!--START_SECTION:waka-->
