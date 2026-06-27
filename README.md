@@ -61,18 +61,6 @@ hobbies: ["Robotics", "IoT", "Sim Racing"]
 
 ---
 
-### 🎵 Music & Spotify Now Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=5">
-</p>
-
----
-
 ### ⚡ GitHub Data & Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paneendrakumar0&show_icons=true&theme=dark)
