@@ -6,7 +6,12 @@
 </div>
 
 # Hi, I'm Paneendra Kumar 👋
-**Mechanical Engineering @ NIT Durgapur | Robotics Enthusiast**
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=paneendrakumar0&label=Profile%20Views&color=0e75b6&style=flat" alt="paneendrakumar0" />
+</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=2196F3&center=false&vCenter=false&width=600&lines=Mechanical+Engineering+%40+NIT+Durgapur;Robotics+Enthusiast;IoT+%26+Digital+Twin+Researcher;Competitive+Programmer" alt="Typing SVG" /></a>
 
 I am a researcher specializing in **IoT**, **Mechatronics**, **Digital Twin**, and **Sim2Real**. As the **Lead of Autonomy** for ABU Robocon 2026, I focus on integrating intelligent electronic control with precision mechanical design to build the next generation of autonomous hardware.
 
@@ -130,6 +135,14 @@ No Activity Tracked This Week
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [paneendrakumar](https://www.linkedin.com/in/paneendrakumar/)
-* **Email:** [paneendra100@gmail.com](mailto:paneendra100@gmail.com)
-* **Portfolio:** [paneendra-portfolio.vercel.app](https://paneendra-portfolio.vercel.app/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/paneendrakumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:paneendra100@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://paneendra-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
