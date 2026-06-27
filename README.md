@@ -11,9 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=paneendrakumar0&label=Profile%20Views&color=0e75b6&style=flat" alt="paneendrakumar0" />
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=2196F3&center=false&vCenter=false&width=600&lines=Mechanical+Engineering+%40+NIT+Durgapur;Robotics+Enthusiast;IoT+%26+Digital+Twin+Researcher;Competitive+Programmer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=2196F3&center=false&vCenter=false&width=800&lines=Mechanical+Engineering+Undergrad;Robotics+Enthusiast;C%2B%2B+%26+Python+Developer;Competitive+Programmer" alt="Typing SVG" /></a>
 
-I am a researcher specializing in **IoT**, **Mechatronics**, **Digital Twin**, and **Sim2Real**. As the **Lead of Autonomy** for ABU Robocon 2026, I focus on integrating intelligent electronic control with precision mechanical design to build the next generation of autonomous hardware.
+I am an engineering student passionate about **IoT**, **Mechatronics**, **Robotics**, and **Sim2Real**. As the **Lead of Autonomy** for ABU Robocon 2026, I enjoy integrating intelligent electronic control with precision mechanical design to build autonomous hardware.
 
 ---
 
@@ -146,3 +146,5 @@ No Activity Tracked This Week
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0e75b6&height=100&section=footer" width="100%"/>
