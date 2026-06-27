@@ -97,7 +97,46 @@ hobbies: ["Robotics", "IoT", "Sim Racing"]
 <!--END_SECTION:waka-simple-->
 
 <!--START_SECTION:waka-->
-<!-- Your stats will be automatically inserted here -->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.66%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 334 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+🌆 Daytime                1328 commits        ██████████████░░░░░░░░░░░   56.41 % 
+🌃 Evening                961 commits         ██████████░░░░░░░░░░░░░░░   40.82 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 27/06/2026 14:04:47 UTC
 <!--END_SECTION:waka-->
 
 ---
