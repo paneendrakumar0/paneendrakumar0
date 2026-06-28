@@ -1,9 +1,4 @@
-<div align="center">
-  
-[![wakatime-stats](https://github.com/paneendrakumar0/paneendrakumar0/workflows/wakatime-stats/badge.svg)](https://github.com/paneendrakumar0/paneendrakumar0/actions)
-[![update-gh-activity](https://github.com/paneendrakumar0/paneendrakumar0/workflows/update-gh-activity/badge.svg)](https://github.com/paneendrakumar0/paneendrakumar0/actions)
 
-</div>
 
 # Hi, I'm Paneendra Kumar 👋
 
