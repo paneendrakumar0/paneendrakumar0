@@ -73,7 +73,7 @@ hobbies: ["Robotics", "IoT", "Sim Racing"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-<!-- Your activity will be automatically inserted here -->
+1. ❌ Closed PR [#6202](https://github.com/ros-navigation/navigation2/pull/6202) in [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2)
 <!--END_SECTION:activity-->
 
 ---
