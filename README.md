@@ -83,7 +83,7 @@ hobbies: ["Robotics", "IoT", "Sim Racing"]
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 02 June 2026 - To: 29 June 2026
+From: 02 June 2026 - To: 30 June 2026
 
 Total Time: 28 hrs 32 mins
 
