@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-visuals
+  group: profile-readme-updates
   cancel-in-progress: false
 
 jobs:
@@ -36,6 +36,7 @@ jobs:
             echo "No 3D profile changes to commit."
           else
             git commit -m "Update 3D contribution calendar"
+            git pull --rebase origin main
             git push
           fi
 

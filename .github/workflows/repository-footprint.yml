@@ -38,5 +38,6 @@ jobs:
             echo "Repository footprint is already current."
           else
             git commit -m "Update repository footprint"
+            git pull --rebase origin main
             git push
           fi
