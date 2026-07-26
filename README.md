@@ -192,49 +192,79 @@ C#                 38 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-simple-->
 
 <!--START_SECTION:waka-->
-![Tracked Code Time](https://img.shields.io/badge/Tracked%20Code%20Time-36%20hrs%2056%20mins-2196F3?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2057%20mins-blue?style=flat)
 
-**🐱 My Verified GitHub Data**
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.23%20million%20lines%20of%20code-blue?style=flat)
 
-> 🏆 443 contributions in 2026
->
-> 💻 348 contribution-counted commits
->
-> 🔀 1 pull request
->
-> 🔒 78 private contributions
->
-> 📚 30 public repositories
->
-> 👥 4 followers
+**🐱 My GitHub Data** 
 
-**I'm a Daytime Builder ☀️**
-
-```text
-🌞 Morning                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-🌆 Daytime               180 commits          ████████████░░░░░░░░░░░░░   47.12 %
-🌃 Evening               155 commits          ██████████░░░░░░░░░░░░░░░   40.58 %
-🌙 Night                   0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-📅 **I'm Most Productive on Thursday**
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 464 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 30 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-Monday                    18 contributions    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Tuesday                   45 contributions    ███░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-Wednesday                 71 contributions    ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
-Thursday                 117 contributions    ███████░░░░░░░░░░░░░░░░░░   26.41 %
-Friday                    43 contributions    ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Saturday                 103 contributions    ██████░░░░░░░░░░░░░░░░░░░   23.25 %
-Sunday                    46 contributions    ███░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+🌞 Morning                85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+🌆 Daytime                1409 commits        ██████████████░░░░░░░░░░░   56.65 % 
+🌃 Evening                993 commits         ██████████░░░░░░░░░░░░░░░   39.93 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Tuesday                  60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Wednesday                218 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Thursday                 1485 commits        ███████████████░░░░░░░░░░   59.71 % 
+Friday                   43 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Saturday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Sunday                   205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 ```
 
-<p align="center">
-  <img height="180" src="./assets/productive-time.svg" alt="Productive time" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paneendrakumar0&theme=github_dark" alt="Most used commit languages" />
-</p>
 
-_Verified from GitHub on 26 July 2026. WakaTime language totals above are maintained separately by the working tracker._
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/paneendrakumar0/paneendrakumar0/main/assets/bar_graph.png)
+
+
+ Last Updated on 26/07/2026 17:48:04 UTC
 <!--END_SECTION:waka-->
 
 ### 📦 Live Repository Footprint
