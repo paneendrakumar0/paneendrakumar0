@@ -2,13 +2,19 @@
 
 # Hi, I'm Paneendra Kumar 👋
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=paneendrakumar0&label=Profile%20Views&color=0e75b6&style=flat" alt="paneendrakumar0" />
+  <img src="https://img.shields.io/github/followers/paneendrakumar0?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/paneendrakumar0?affiliations=OWNER&label=Total%20Stars&style=flat&color=0e75b6" alt="GitHub stars" />
 </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=2196F3&center=false&vCenter=false&width=800&lines=Mechanical+Engineering+Undergrad;Robotics+Enthusiast;C%2B%2B+%26+Python+Developer;Competitive+Programmer" alt="Typing SVG" /></a>
 
 I am an engineering student passionate about **IoT**, **Mechatronics**, **Robotics**, and **Sim2Real**. As the **Lead of Autonomy** for ABU Robocon 2026, I enjoy integrating intelligent electronic control with precision mechanical design to build autonomous hardware.
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=paneendrakumar0&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Paneendra Kumar's GitHub trophies" />
+</p>
 
 ---
 
@@ -19,6 +25,8 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 - 🧠 Building at the intersection of **mechanical design, electronics, and intelligent software**
 - ⚙️ Turning simulations and control algorithms into reliable real-world robotic systems
 - 🏁 Exploring autonomous navigation, digital twins, sensor fusion, and competitive programming
+- 🤝 Open to collaborating on **robotics, embedded systems, IoT, and open-source engineering**
+- 💬 Have a question or project idea? [Start a conversation](https://github.com/paneendrakumar0/paneendrakumar0/issues/new?title=Let%27s%20build%20something&body=Hi%20Paneendra%2C%20I%27d%20like%20to%20talk%20about...)
 
 ### 🚀 Currently Building
 
@@ -121,10 +129,24 @@ hobbies: ["Robotics", "IoT", "Sim Racing"]
 
 ### ⚡ GitHub Data & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paneendrakumar0&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paneendrakumar0&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=paneendrakumar0&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=paneendrakumar0&theme=react)](https://github.com/paneendrakumar0)
+<details open>
+  <summary><strong>📈 GitHub Stats</strong></summary>
+  <br />
+  <p align="center">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=paneendrakumar0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paneendrakumar0&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top languages" />
+  </p>
+</details>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paneendrakumar0&theme=github_dark" alt="GitHub profile summary" />
+</p>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paneendrakumar0&theme=react-dark&hide_border=true&area=true)](https://github.com/paneendrakumar0)
 
 ---
 
@@ -201,7 +223,10 @@ No Activity Tracked This Week
 ---
 
 ### 📫 Connect with Me
-<p align="left">
+<p align="center">
+  <a href="https://github.com/paneendrakumar0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/paneendrakumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -211,6 +236,18 @@ No Activity Tracked This Week
   <a href="https://paneendra-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.kaggle.com/paneendrakumar" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/WaRRDUFY7j/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/paneendra">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </p>
 
 ---
@@ -218,5 +255,11 @@ No Activity Tracked This Week
 ### ✨ Engineering Philosophy
 
 > “The best engineering happens when mechanics, electronics, and software move as one.”
+
+<div align="center">
+
+### Show some ❤️ by starring the repositories you find useful!
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0e75b6&height=100&section=footer" width="100%"/>
