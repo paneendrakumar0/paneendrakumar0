@@ -186,6 +186,9 @@ C#                 38 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:waka-->
 ![Tracked Code Time](https://img.shields.io/badge/Tracked%20Code%20Time-36%20hrs%2056%20mins-2196F3?style=flat)
 
+![Public Repository Storage](https://img.shields.io/badge/Public%20Repo%20Storage-720.5%20MB-2196F3?style=flat)
+![Source Lines](https://img.shields.io/badge/Source%20Lines-76%2C299-2196F3?style=flat)
+
 **🐱 My Verified GitHub Data**
 
 > 🏆 443 contributions in 2026
@@ -197,6 +200,10 @@ C#                 38 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 > 🔒 78 private contributions
 >
 > 📚 30 public repositories
+>
+> 📦 720.5 MB across public repositories
+>
+> 🧮 76,299 source lines across owned public repositories
 >
 > 👥 4 followers
 
@@ -226,7 +233,7 @@ Sunday                    46 contributions    ███░░░░░░░░�
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paneendrakumar0&theme=github_dark" alt="Most used commit languages" />
 </p>
 
-_Verified from GitHub on 26 July 2026. WakaTime language totals above are maintained separately by the working tracker._
+_Verified from GitHub on 26 July 2026. Repository storage is the GitHub API-reported total. Source lines exclude forks, dependencies, generated/build output, lockfiles, and minified assets; tracked Jupyter code cells are included. WakaTime language totals above are maintained separately by the working tracker._
 <!--END_SECTION:waka-->
 
 ---
