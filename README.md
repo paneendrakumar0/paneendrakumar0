@@ -222,7 +222,7 @@ Sunday                    46 contributions    ███░░░░░░░░�
 ```
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paneendrakumar0&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+  <img height="180" src="./assets/productive-time.svg" alt="Productive time" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paneendrakumar0&theme=github_dark" alt="Most used commit languages" />
 </p>
 
