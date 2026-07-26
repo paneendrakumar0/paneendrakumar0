@@ -154,6 +154,14 @@ hobbies: ["Robotics", "IoT", "Sim Racing"]
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Paneendra Kumar's 3D contribution calendar" />
 </p>
 
+<details>
+  <summary><strong>📊 Live Detailed GitHub Metrics</strong></summary>
+  <br />
+  <p align="center">
+    <img src="./github-metrics.svg" alt="Paneendra Kumar's live detailed GitHub metrics" />
+  </p>
+</details>
+
 ---
 
 **:zap: Recent Activity:**
@@ -186,9 +194,6 @@ C#                 38 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:waka-->
 ![Tracked Code Time](https://img.shields.io/badge/Tracked%20Code%20Time-36%20hrs%2056%20mins-2196F3?style=flat)
 
-![Public Repository Storage](https://img.shields.io/badge/Public%20Repo%20Storage-720.5%20MB-2196F3?style=flat)
-![Source Lines](https://img.shields.io/badge/Source%20Lines-76%2C299-2196F3?style=flat)
-
 **🐱 My Verified GitHub Data**
 
 > 🏆 443 contributions in 2026
@@ -200,10 +205,6 @@ C#                 38 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 > 🔒 78 private contributions
 >
 > 📚 30 public repositories
->
-> 📦 720.5 MB across public repositories
->
-> 🧮 76,299 source lines across owned public repositories
 >
 > 👥 4 followers
 
@@ -233,8 +234,31 @@ Sunday                    46 contributions    ███░░░░░░░░�
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paneendrakumar0&theme=github_dark" alt="Most used commit languages" />
 </p>
 
-_Verified from GitHub on 26 July 2026. Repository storage is the GitHub API-reported total. Source lines exclude forks, dependencies, generated/build output, lockfiles, and minified assets; tracked Jupyter code cells are included. WakaTime language totals above are maintained separately by the working tracker._
+_Verified from GitHub on 26 July 2026. WakaTime language totals above are maintained separately by the working tracker._
 <!--END_SECTION:waka-->
+
+### 📦 Live Repository Footprint
+
+<!--START_SECTION:repository-footprint-->
+![Public Repository Storage](https://img.shields.io/badge/Public%20Repo%20Storage-720.5%20MB-2196F3?style=flat)
+![Source Lines](https://img.shields.io/badge/Source%20Lines-76%2C299-2196F3?style=flat)
+
+> 📦 **720.5 MB** across 30 public repositories
+>
+> 🧮 **76,299 source lines** across 26 non-empty owned, non-fork repositories
+>
+> 📄 **596 tracked source files** scanned
+
+_Updated automatically every day. Source lines exclude forks, dependencies, generated/build output, lockfiles, and minified assets; tracked Jupyter code cells are included._
+<!--END_SECTION:repository-footprint-->
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paneendrakumar0/paneendrakumar0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paneendrakumar0/paneendrakumar0/output/github-contribution-grid-snake.svg" />
+  <img alt="Paneendra Kumar's contribution snake" src="https://raw.githubusercontent.com/paneendrakumar0/paneendrakumar0/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
