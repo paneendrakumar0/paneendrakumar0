@@ -184,46 +184,49 @@ C#                 38 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-simple-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Tracked Code Time](https://img.shields.io/badge/Tracked%20Code%20Time-36%20hrs%2056%20mins-2196F3?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.66%20million%20lines%20of%20code-blue?style=flat)
+**🐱 My Verified GitHub Data**
 
-**🐱 My GitHub Data** 
+> 🏆 443 contributions in 2026
+>
+> 💻 348 contribution-counted commits
+>
+> 🔀 1 pull request
+>
+> 🔒 78 private contributions
+>
+> 📚 30 public repositories
+>
+> 👥 4 followers
 
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 339 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 27 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-🌆 Daytime                1328 commits        ██████████████░░░░░░░░░░░   56.30 % 
-🌃 Evening                966 commits         ██████████░░░░░░░░░░░░░░░   40.95 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
+**I'm a Daytime Builder ☀️**
 
 ```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+🌞 Morning                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+🌆 Daytime               180 commits          ████████████░░░░░░░░░░░░░   47.12 %
+🌃 Evening               155 commits          ██████████░░░░░░░░░░░░░░░   40.58 %
+🌙 Night                   0 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
+📅 **I'm Most Productive on Thursday**
 
- Last Updated on 27/06/2026 14:24:47 UTC
+```text
+Monday                    18 contributions    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Tuesday                   45 contributions    ███░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Wednesday                 71 contributions    ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+Thursday                 117 contributions    ███████░░░░░░░░░░░░░░░░░░   26.41 %
+Friday                    43 contributions    ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+Saturday                 103 contributions    ██████░░░░░░░░░░░░░░░░░░░   23.25 %
+Sunday                    46 contributions    ███░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+```
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paneendrakumar0&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paneendrakumar0&theme=github_dark" alt="Most used commit languages" />
+</p>
+
+_Verified from GitHub on 26 July 2026. WakaTime language totals above are maintained separately by the working tracker._
 <!--END_SECTION:waka-->
 
 ---
