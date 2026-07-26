@@ -12,6 +12,38 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 
 ---
 
+### 👨‍💻 About Me
+
+- 🎓 Pursuing a **B.Tech in Mechanical Engineering at NIT Durgapur**
+- 🤖 Leading **Autonomy & Control for ABU Robocon 2026**
+- 🧠 Building at the intersection of **mechanical design, electronics, and intelligent software**
+- ⚙️ Turning simulations and control algorithms into reliable real-world robotic systems
+- 🏁 Exploring autonomous navigation, digital twins, sensor fusion, and competitive programming
+
+### 🚀 Currently Building
+
+- Autonomous navigation and trajectory-planning systems for competition robots
+- Sim2Real workflows that connect **ROS2**, **Isaac Sim**, and physical hardware
+- Embedded control systems using **ESP32**, **Arduino**, sensors, and actuators
+- Digital-twin and IoT prototypes for real-time monitoring and automation
+
+### 📚 Currently Learning
+
+- Advanced **ROS2** architecture and robot navigation
+- **NVIDIA Isaac Sim** for robotics simulation
+- Sensor fusion with **IMU** and **LiDAR**
+- Scalable software architecture for multi-robot systems
+
+### 🎯 Interests
+
+`Robotics` · `Mechatronics` · `Autonomous Systems` · `IoT` · `Digital Twins` · `Sim2Real` · `Embedded Systems` · `Open Source`
+
+### 💬 Ask Me About
+
+`C++` · `Python` · `ROS2` · `ESP32` · `Arduino` · `SolidWorks` · `PID Control` · `Robot Navigation` · `DSA`
+
+---
+
 ### 📊 Competitive Programming & Coding Stats
 | Platform | Rank / Rating | Link |
 | :--- | :--- | :--- |
@@ -25,6 +57,32 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 * **Mechatronics & IoT:** ESP32, Arduino, Raspberry Pi, Sensor Fusion (IMU, LiDAR)
 * **Design & Simulation:** SolidWorks (CAD/CAM/FEA), AutoCAD, ROS2, Isaac Sim
 * **Core Skills:** Autonomous Navigation, PID Control, Digital Twin Architecture, DSA
+
+#### Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Arduino C](https://img.shields.io/badge/Arduino_C-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+#### Robotics, Embedded Systems & IoT
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![NVIDIA Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### Design, Simulation & Developer Tools
+
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -154,5 +212,11 @@ No Activity Tracked This Week
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+---
+
+### ✨ Engineering Philosophy
+
+> “The best engineering happens when mechanics, electronics, and software move as one.”
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0e75b6&height=100&section=footer" width="100%"/>
