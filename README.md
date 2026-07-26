@@ -13,7 +13,7 @@
 I am an engineering student passionate about **IoT**, **Mechatronics**, **Robotics**, and **Sim2Real**. As the **Lead of Autonomy** for ABU Robocon 2026, I enjoy integrating intelligent electronic control with precision mechanical design to build autonomous hardware.
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paneendrakumar0&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Paneendra Kumar's GitHub trophies" />
+  <img width="100%" src="https://samdev-pulse.vercel.app/api/profile?username=paneendrakumar0&theme=tokyonight&leetcode=WaRRDUFY7j&codeforces=paneendra&align=center" alt="Paneendra Kumar's live GitHub profile, coding stats, and trophies" />
 </p>
 
 ---
@@ -137,8 +137,8 @@ hobbies: ["Robotics", "IoT", "Sim Racing"]
   <summary><strong>📈 GitHub Stats</strong></summary>
   <br />
   <p align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=paneendrakumar0&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paneendrakumar0&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top languages" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=paneendrakumar0&theme=github_dark" alt="GitHub stats" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paneendrakumar0&theme=github_dark" alt="Repositories per language" />
   </p>
 </details>
 
@@ -147,6 +147,12 @@ hobbies: ["Robotics", "IoT", "Sim Racing"]
 </p>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paneendrakumar0&theme=react-dark&hide_border=true&area=true)](https://github.com/paneendrakumar0)
+
+### 🌌 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Paneendra Kumar's 3D contribution calendar" />
+</p>
 
 ---
 
