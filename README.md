@@ -290,14 +290,6 @@ HTML                     2 repos             ██░░░░░░░░░�
 _Updated automatically on 27 July 2026 at 06:05 UTC. Source lines exclude forks, dependencies, generated/build output, lockfiles, and minified assets; tracked Jupyter code cells are included._
 <!--END_SECTION:repository-footprint-->
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paneendrakumar0/paneendrakumar0/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paneendrakumar0/paneendrakumar0/output/github-contribution-grid-snake.svg" />
-  <img alt="Paneendra Kumar's contribution snake" src="https://raw.githubusercontent.com/paneendrakumar0/paneendrakumar0/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ---
 
 ### 📫 Connect with Me
