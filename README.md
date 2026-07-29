@@ -167,7 +167,7 @@ hobbies: ["Robotics", "IoT", "Sim Racing"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6202](https://github.com/ros-navigation/navigation2/pull/6202) in [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2)
+1. 🎉 Merged PR [#3](https://github.com/paneendrakumar0/uav-autonomous-telemetry/pull/3) in [paneendrakumar0/uav-autonomous-telemetry](https://github.com/paneendrakumar0/uav-autonomous-telemetry)
 <!--END_SECTION:activity-->
 
 ---
