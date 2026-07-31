@@ -167,7 +167,7 @@ hobbies: ["Robotics", "IoT", "Sim Racing"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/paneendrakumar0/dual-arm-interception-simulation/pull/3) in [paneendrakumar0/dual-arm-interception-simulation](https://github.com/paneendrakumar0/dual-arm-interception-simulation)
+1. 🎉 Merged PR [#1](https://github.com/paneendrakumar0/Project-Aegis/pull/1) in [paneendrakumar0/Project-Aegis](https://github.com/paneendrakumar0/Project-Aegis)
 <!--END_SECTION:activity-->
 
 ---
