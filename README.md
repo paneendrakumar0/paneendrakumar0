@@ -332,4 +332,4 @@ _Updated automatically on 31 July 2026 at 05:51 UTC. Source lines exclude forks,
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0e75b6&height=100&section=footer" width="100%"/>
+<img src="./assets/tech-footer.svg" alt="Animated engineering technology footer" width="100%" />
