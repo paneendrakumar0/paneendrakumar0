@@ -52,14 +52,6 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 
 ---
 
-### 📊 Competitive Programming & Coding Stats
-| Platform | Rank / Rating | Link |
-| :--- | :--- | :--- |
-| **LeetCode** | ![LeetCode Stats](https://leetcard.jacoblin.cool/WaRRDUFY7j?theme=dark&font=Recursive) | [Profile](https://leetcode.com/u/WaRRDUFY7j/) |
-| **Codeforces** | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=paneendra&theme=dark) | [Profile](https://codeforces.com/profile/paneendra) |
-| **Kaggle** | [![Kaggle Profile](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/paneendrakumar) | [Profile](https://www.kaggle.com/paneendrakumar) |
----
-
 ### 🚀 Technical Expertise
 * **Languages:** C++, Python, JavaScript (Node.js), Arduino C
 * **Mechatronics & IoT:** ESP32, Arduino, Raspberry Pi, Sensor Fusion (IMU, LiDAR)
