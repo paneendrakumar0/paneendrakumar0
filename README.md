@@ -32,8 +32,6 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 
 - Autonomous navigation and trajectory-planning systems for competition robots
 - Sim2Real workflows that connect **ROS2**, **Isaac Sim**, and physical hardware
-- Embedded control systems using **ESP32**, **Arduino**, sensors, and actuators
-- Digital-twin and IoT prototypes for real-time monitoring and automation
 
 ### 📚 Currently Learning
 
@@ -42,21 +40,9 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 - Sensor fusion with **IMU** and **LiDAR**
 - Scalable software architecture for multi-robot systems
 
-### 🎯 Interests
-
-`Robotics` · `Mechatronics` · `Autonomous Systems` · `IoT` · `Digital Twins` · `Sim2Real` · `Embedded Systems` · `Open Source`
-
-### 💬 Ask Me About
-
-`C++` · `Python` · `ROS2` · `ESP32` · `Arduino` · `SolidWorks` · `PID Control` · `Robot Navigation` · `DSA`
-
 ---
 
 ### 🚀 Technical Expertise
-* **Languages:** C++, Python, JavaScript (Node.js), Arduino C
-* **Mechatronics & IoT:** ESP32, Arduino, Raspberry Pi, Sensor Fusion (IMU, LiDAR)
-* **Design & Simulation:** SolidWorks (CAD/CAM/FEA), AutoCAD, ROS2, Isaac Sim
-* **Core Skills:** Autonomous Navigation, PID Control, Digital Twin Architecture, DSA
 
 #### Languages
 
@@ -94,28 +80,6 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 4. **IoT Smart Dustbin (Digital Twin PoC) (Dec 2025)**: Created a real-time monitoring system with ultrasonic sensors and a web dashboard for Industry 4.0 data threads.
 5. **Hybrid Sim Racing Controller (Oct 2025)**: Designed a custom mechanical feedback controller for high-fidelity sim-racing.
 6. **Gesture Control Teleoperation System (2025)**: Implemented hand-gesture recognition for hardware control using **Python** and **OpenCV**.
-
----
-
-### 👨‍💻 About Me (YAML)
-```yaml
-name: Paneendra Kumar
-located_in: Durgapur, India
-job: Autonomy & Control Lead
-education: ["B.Tech in Mechanical Engineering, NIT Durgapur"]
-company: ABU Robocon 2026
-past_experiences:
-  - ["Autonomy & Control Lead", "Robotics", "ABU Robocon", "India", "2025-Now"]
-  - ["Developer", "Autonomous Waste Segregation System", "Projects", "India", "2026"]
-  - ["Developer", "Voice-Controlled Robotic Arm", "Projects", "India", "2025"]
-  - ["Developer", "IoT Smart Dustbin (Digital Twin)", "Projects", "India", "2025"]
-  - ["Developer", "Hybrid Sim Racing Controller", "Projects", "India", "2025"]
-
-fields_of_interests: ["IoT", "Mechatronics", "Digital Twin", "Sim2Real", "Robotics"]
-technical_background: ["Autonomous Navigation", "PID Control", "Digital Twin Architecture", "DSA"]
-currently_learning: ["ROS2", "Isaac Sim", "Sensor Fusion"]
-hobbies: ["Robotics", "IoT", "Sim Racing"]
-```
 
 ---
 
