@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/paneendrakumar0/Project-Aegis/pull/1) in [paneendrakumar0/Project-Aegis](https://github.com/paneendrakumar0/Project-Aegis)
+1. 🗣 Commented on [#1](https://github.com/paneendrakumar0/waste-segregation-bot/pull/1#issuecomment-5150945167) in [paneendrakumar0/waste-segregation-bot](https://github.com/paneendrakumar0/waste-segregation-bot)
 <!--END_SECTION:activity-->
 
 ---
