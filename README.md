@@ -227,7 +227,6 @@ HTML                     2 repos             ██░░░░░░░░░�
 >
 > 📄 **674 tracked source files** scanned
 
-_Updated automatically on 31 July 2026 at 05:51 UTC. Source lines exclude forks, dependencies, generated/build output, lockfiles, and minified assets; tracked Jupyter code cells are included._
 <!--END_SECTION:repository-footprint-->
 
 ---

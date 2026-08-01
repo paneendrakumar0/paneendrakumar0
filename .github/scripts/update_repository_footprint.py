@@ -6,7 +6,6 @@ import re
 import subprocess
 import tempfile
 import urllib.request
-from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import quote
 
@@ -128,7 +127,6 @@ def main() -> None:
     storage_mb = storage_kib / 1024
     storage_badge = quote(f"{storage_mb:,.1f} MB", safe="")
     lines_badge = quote(f"{source_lines:,}", safe="")
-    updated = datetime.now(timezone.utc).strftime("%d %B %Y at %H:%M UTC")
     section = f"""{START}
 ![Public Repository Storage](https://img.shields.io/badge/Public%20Repo%20Storage-{storage_badge}-2196F3?style=flat)
 ![Source Lines](https://img.shields.io/badge/Source%20Lines-{lines_badge}-2196F3?style=flat)
@@ -138,8 +136,6 @@ def main() -> None:
 > 🧮 **{source_lines:,} source lines** across {len(owned)} owned, non-fork repositories
 >
 > 📄 **{source_files:,} tracked source files** scanned
-
-_Updated automatically on {updated}. Source lines exclude forks, dependencies, generated/build output, lockfiles, and minified assets; tracked Jupyter code cells are included._
 {END}"""
 
     readme_path = Path("README.md")
