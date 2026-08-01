@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/stars/paneendrakumar0?affiliations=OWNER&label=Total%20Stars&style=flat&color=0e75b6" alt="GitHub stars" />
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=2196F3&center=false&vCenter=false&width=800&lines=Mechanical+Engineering+Undergrad;Robotics+Enthusiast;C%2B%2B+%26+Python+Developer;Competitive+Programmer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=2196F3&center=false&vCenter=false&width=800&lines=Learning+%26+Building+Autonomous+Robots;Mechanical+Engineering+Undergrad;Robotics+Enthusiast;C%2B%2B+%26+Python+Developer;Competitive+Programmer" alt="Learning and building autonomous robots" /></a>
 
 I am an engineering student passionate about **IoT**, **Mechatronics**, **Robotics**, and **Sim2Real**. As the **Lead of Autonomy** for ABU Robocon 2026, I enjoy integrating intelligent electronic control with precision mechanical design to build autonomous hardware.
 
@@ -72,14 +72,13 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 
 ---
 
-### 🏗️ Projects (Newest to Oldest)
+### 🏗️ Featured Robotics Projects
 
-1. **Autonomous Waste Segregation System (Jan 2026)**: Developed an image-classification-based sorting system for recyclables using **SolidWorks** and **Python**.
-2. **Autonomy & Control Lead | ABU Robocon 2026 (Dec 2025 – Present)**: Architecting navigation logic and trajectory planning in **C++** for multi-agent competition bots.
-3. **Voice-Controlled Robotic Arm (Dec 2025)**: Built a 4-DOF arm using an **ESP32** and speech recognition for precise PWM-controlled actuation.
-4. **IoT Smart Dustbin (Digital Twin PoC) (Dec 2025)**: Created a real-time monitoring system with ultrasonic sensors and a web dashboard for Industry 4.0 data threads.
-5. **Hybrid Sim Racing Controller (Oct 2025)**: Designed a custom mechanical feedback controller for high-fidelity sim-racing.
-6. **Gesture Control Teleoperation System (2025)**: Implemented hand-gesture recognition for hardware control using **Python** and **OpenCV**.
+1. **[SpiderVision-ReID](https://github.com/paneendrakumar0/spidervision-reid)** — Real-time object tracking and re-identification from live camera input.
+2. **[Dynamic Dual-Arm Interception Simulation](https://github.com/paneendrakumar0/dual-arm-interception-simulation)** — A PyBullet simulation in which two robot arms track, intercept, and stabilize a moving component.
+3. **[UAV Autonomous Telemetry](https://github.com/paneendrakumar0/uav-autonomous-telemetry)** — ROS 2 and PX4 SITL experiments for offboard control, telemetry logging, trajectory validation, and slung-payload simulation.
+4. **[DroneNav-RL](https://github.com/paneendrakumar0/DroneNav-RL)** — Autonomous quadcopter navigation using reinforcement learning, range sensing, curriculum training, and reproducible evaluation.
+5. **[ROS 2 Robotic Hand Digital Twin](https://github.com/paneendrakumar0/Robotic-Hand-Simulation-in-ROS2)** — Full finger articulation and wrist rotation visualized in RViz.
 
 ---
 
@@ -243,6 +242,9 @@ HTML                     2 repos             ██░░░░░░░░░�
   </a>
   <a href="https://paneendra-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://paneendra-portfolio.vercel.app/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-6D28D9?style=for-the-badge&logo=readme&logoColor=white" alt="Résumé" />
   </a>
   <a href="https://www.kaggle.com/paneendrakumar" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
