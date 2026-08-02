@@ -217,14 +217,14 @@ HTML                     2 repos             ██░░░░░░░░░�
 ### 📦 Live Repository Footprint
 
 <!--START_SECTION:repository-footprint-->
-![Public Repository Storage](https://img.shields.io/badge/Public%20Repo%20Storage-1%2C640.5%20MB-2196F3?style=flat)
-![Source Lines](https://img.shields.io/badge/Source%20Lines-151%2C786-2196F3?style=flat)
+![Public Repository Storage](https://img.shields.io/badge/Public%20Repo%20Storage-1%2C235.6%20MB-2196F3?style=flat)
+![Source Lines](https://img.shields.io/badge/Source%20Lines-125%2C589-2196F3?style=flat)
 
-> 📦 **1,640.5 MB** across 35 public repositories
+> 📦 **1,235.6 MB** across 34 public repositories
 >
-> 🧮 **151,786 source lines** across 30 owned, non-fork repositories
+> 🧮 **125,589 source lines** across 29 owned, non-fork repositories
 >
-> 📄 **841 tracked source files** scanned
+> 📄 **692 tracked source files** scanned
 <!--END_SECTION:repository-footprint-->
 
 ---
