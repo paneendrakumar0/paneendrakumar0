@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/paneendrakumar0/waste-segregation-bot/pull/1#issuecomment-5150945167) in [paneendrakumar0/waste-segregation-bot](https://github.com/paneendrakumar0/waste-segregation-bot)
+1. 🎉 Merged PR [#5](https://github.com/paneendrakumar0/uav-autonomous-telemetry/pull/5) in [paneendrakumar0/uav-autonomous-telemetry](https://github.com/paneendrakumar0/uav-autonomous-telemetry)
 <!--END_SECTION:activity-->
 
 ---
