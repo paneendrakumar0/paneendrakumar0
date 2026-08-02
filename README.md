@@ -155,19 +155,19 @@ C#                 1 hr 11 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ```text
 🌞 Morning                217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-🌆 Daytime                1558 commits        █████████████░░░░░░░░░░░░   53.85 % 
-🌃 Evening                1089 commits        █████████░░░░░░░░░░░░░░░░   37.64 % 
-🌙 Night                  29 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+🌆 Daytime                1558 commits        █████████████░░░░░░░░░░░░   53.84 % 
+🌃 Evening                1089 commits        █████████░░░░░░░░░░░░░░░░   37.63 % 
+🌙 Night                  30 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Monday                   149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 Tuesday                  110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Wednesday                271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Thursday                 1509 commits        █████████████░░░░░░░░░░░░   52.16 % 
+Wednesday                271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Thursday                 1509 commits        █████████████░░░░░░░░░░░░   52.14 % 
 Friday                   94 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Saturday                 505 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Saturday                 505 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
 Sunday                   256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 ```
 
@@ -178,24 +178,24 @@ Sunday                   256 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-YAML                     1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-JSON                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Other                    37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Git Config               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Python                   4 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
+Markdown                 2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 49 mins       █████████████████████████   100.00 % 
+Antigravity IDE          13 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-profile-publish          2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.91 % 
-iARCweldingsimulator     1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-Portfolio                56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-paneendrakumar0-main     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Technology Portfolio Webs27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+uav-autonomous-telemetry 4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
+Portfolio                1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+iARCweldingsimulator     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+dual-arm-interception-sim1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+profile-publish          1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 
 💻 Operating System: 
-Windows                  6 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -211,7 +211,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:55:44 UTC
+ Last Updated on 02/08/2026 22:41:37 UTC
 <!--END_SECTION:waka-->
 
 ### 📦 Live Repository Footprint
