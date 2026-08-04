@@ -155,20 +155,20 @@ C#                 1 hr 11 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ```text
 🌞 Morning                242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-🌆 Daytime                1599 commits        █████████████░░░░░░░░░░░░   53.73 % 
-🌃 Evening                1103 commits        █████████░░░░░░░░░░░░░░░░   37.06 % 
-🌙 Night                  32 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+🌆 Daytime                1599 commits        █████████████░░░░░░░░░░░░   53.71 % 
+🌃 Evening                1104 commits        █████████░░░░░░░░░░░░░░░░   37.08 % 
+🌙 Night                  32 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   167 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Monday                   168 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 Tuesday                  120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Wednesday                282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Thursday                 1509 commits        █████████████░░░░░░░░░░░░   50.71 % 
+Wednesday                282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Thursday                 1509 commits        █████████████░░░░░░░░░░░░   50.69 % 
 Friday                   102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Saturday                 522 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Sunday                   274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Saturday                 522 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Sunday                   274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 ```
 
 
@@ -178,24 +178,24 @@ Sunday                   274 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
-Markdown                 2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Python                   3 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   35.14 % 
+Markdown                 2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Bash                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Git Config               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 
 🔥 Editors: 
-Antigravity IDE          13 hrs 5 mins       █████████████████████████   100.00 % 
+Antigravity IDE          10 hrs 33 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-uav-autonomous-telemetry 4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
-Portfolio                1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-iARCweldingsimulator     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-dual-arm-interception-sim1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-profile-publish          1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+uav-autonomous-telemetry 4 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.61 % 
+iARCweldingsimulator     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+dual-arm-interception-sim1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+waste-segregation-bot    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+profile-publish          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -211,7 +211,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 15:33:18 UTC
+ Last Updated on 04/08/2026 03:56:20 UTC
 <!--END_SECTION:waka-->
 
 ### 📦 Live Repository Footprint
