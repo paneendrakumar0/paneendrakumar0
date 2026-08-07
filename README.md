@@ -151,6 +151,53 @@ Other              1 hr 19 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.97%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                246 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+🌆 Daytime                1607 commits        █████████████░░░░░░░░░░░░   53.57 % 
+🌃 Evening                1111 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
+🌙 Night                  36 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   168 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Tuesday                  126 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Wednesday                292 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Thursday                 1515 commits        █████████████░░░░░░░░░░░░   50.50 % 
+Friday                   103 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Saturday                 522 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Sunday                   274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   3 hrs               █████████░░░░░░░░░░░░░░░░   35.99 % 
+Markdown                 1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Other                    1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Git Config               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+C#                       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+
+🔥 Editors: 
+Antigravity IDE          8 hrs 21 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+uav-autonomous-telemetry 3 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   41.79 % 
+iARCweldingsimulator     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+waste-segregation-bot    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+profile-publish          57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+GestureFlow              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+
+💻 Operating System: 
+Windows                  8 hrs 21 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -164,7 +211,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:33:07 UTC
+ Last Updated on 07/08/2026 03:41:01 UTC
 <!--END_SECTION:waka-->
 
 ### 📦 Live Repository Footprint
