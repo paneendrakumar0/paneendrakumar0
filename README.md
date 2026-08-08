@@ -155,20 +155,20 @@ Other              1 hr 26 mins    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ```text
 🌞 Morning                270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-🌆 Daytime                1630 commits        █████████████░░░░░░░░░░░░   53.13 % 
-🌃 Evening                1130 commits        █████████░░░░░░░░░░░░░░░░   36.83 % 
-🌙 Night                  38 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+🌆 Daytime                1630 commits        █████████████░░░░░░░░░░░░   53.11 % 
+🌃 Evening                1130 commits        █████████░░░░░░░░░░░░░░░░   36.82 % 
+🌙 Night                  39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   177 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 Tuesday                  126 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Wednesday                295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Thursday                 1515 commits        ████████████░░░░░░░░░░░░░   49.38 % 
+Wednesday                295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Thursday                 1515 commits        ████████████░░░░░░░░░░░░░   49.36 % 
 Friday                   109 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Saturday                 563 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Sunday                   283 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Saturday                 563 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Sunday                   284 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 ```
 
 
@@ -178,24 +178,24 @@ Sunday                   283 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   37.44 % 
-Markdown                 1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Other                    1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Git Config               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-C#                       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Python                   3 hrs 3 mins        █████████████░░░░░░░░░░░░   51.06 % 
+Markdown                 1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+C#                       27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🔥 Editors: 
-Antigravity IDE          7 hrs 55 mins       █████████████████████████   100.00 % 
+Antigravity IDE          5 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-uav-autonomous-telemetry 3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.11 % 
-iARCweldingsimulator     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-waste-segregation-bot    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-profile-publish          57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-GestureFlow              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+uav-autonomous-telemetry 3 hrs 29 mins       ███████████████░░░░░░░░░░   58.20 % 
+GestureFlow              54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+waste-segregation-bot    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+iARCweldingsimulator     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+PPT                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 💻 Operating System: 
-Windows                  7 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -211,7 +211,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 19:18:49 UTC
+ Last Updated on 08/08/2026 22:04:15 UTC
 <!--END_SECTION:waka-->
 
 ### 📦 Live Repository Footprint
