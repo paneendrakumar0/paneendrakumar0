@@ -155,19 +155,19 @@ Other              1 hr 39 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ```text
 🌞 Morning                282 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-🌆 Daytime                1646 commits        █████████████░░░░░░░░░░░░   52.67 % 
-🌃 Evening                1151 commits        █████████░░░░░░░░░░░░░░░░   36.83 % 
-🌙 Night                  46 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+🌆 Daytime                1646 commits        █████████████░░░░░░░░░░░░   52.66 % 
+🌃 Evening                1151 commits        █████████░░░░░░░░░░░░░░░░   36.82 % 
+🌙 Night                  47 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Monday                   188 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 Tuesday                  139 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Wednesday                309 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Thursday                 1515 commits        ████████████░░░░░░░░░░░░░   48.48 % 
+Wednesday                309 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Thursday                 1516 commits        ████████████░░░░░░░░░░░░░   48.50 % 
 Friday                   109 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Saturday                 570 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Saturday                 570 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
 Sunday                   295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
 ```
 
@@ -178,23 +178,22 @@ Sunday                   295 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   38 mins             █████████░░░░░░░░░░░░░░░░   37.63 % 
-Other                    34 mins             ████████░░░░░░░░░░░░░░░░░   33.67 % 
-Markdown                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Markdown                 22 mins             ██████████░░░░░░░░░░░░░░░   38.49 % 
+Other                    20 mins             █████████░░░░░░░░░░░░░░░░   34.59 % 
+Python                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+TypeScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 42 mins        █████████████████████████   100.00 % 
+Antigravity IDE          58 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GestureFlow              54 mins             █████████████░░░░░░░░░░░░   53.39 % 
-Portfolio                24 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-PPT                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-review-what-i-worked-on-t7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+GestureFlow              24 mins             ███████████░░░░░░░░░░░░░░   42.68 % 
+Portfolio                24 mins             ██████████░░░░░░░░░░░░░░░   41.74 % 
+review-what-i-worked-on-t7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -210,7 +209,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 19:51:01 UTC
+ Last Updated on 12/08/2026 22:26:29 UTC
 <!--END_SECTION:waka-->
 
 ### 📦 Live Repository Footprint
