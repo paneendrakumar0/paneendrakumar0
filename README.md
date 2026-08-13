@@ -132,7 +132,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 02 June 2026 - To: 12 August 2026
+From: 02 June 2026 - To: 13 August 2026
 
 Total Time: 50 hrs 47 mins
 
