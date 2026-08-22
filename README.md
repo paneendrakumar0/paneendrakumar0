@@ -155,9 +155,9 @@ PowerShell         2 hrs 26 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ```text
 🌞 Morning                302 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-🌆 Daytime                1719 commits        █████████████░░░░░░░░░░░░   52.78 % 
-🌃 Evening                1170 commits        █████████░░░░░░░░░░░░░░░░   35.92 % 
-🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+🌆 Daytime                1719 commits        █████████████░░░░░░░░░░░░   52.76 % 
+🌃 Evening                1170 commits        █████████░░░░░░░░░░░░░░░░   35.91 % 
+🌙 Night                  67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -165,10 +165,10 @@ PowerShell         2 hrs 26 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 Monday                   195 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 Tuesday                  147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 Wednesday                317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Thursday                 1532 commits        ████████████░░░░░░░░░░░░░   47.04 % 
+Thursday                 1532 commits        ████████████░░░░░░░░░░░░░   47.02 % 
 Friday                   125 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Saturday                 638 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Sunday                   303 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Saturday                 638 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Sunday                   304 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 ```
 
 
@@ -178,16 +178,23 @@ Sunday                   303 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 7 mins        ██████████████░░░░░░░░░░░   55.81 % 
+Markdown                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Bash                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          3 hrs 49 mins       █████████████████░░░░░░░░   68.23 % 
+Codex Vscode             1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   31.77 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Educom                   5 hrs 26 mins       ████████████████████████░   96.96 % 
+review-what-i-worked-on-t5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -203,7 +210,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 19:05:36 UTC
+ Last Updated on 22/08/2026 21:59:48 UTC
 <!--END_SECTION:waka-->
 
 ### 📦 Live Repository Footprint
