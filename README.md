@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/paneendrakumar0/portfolio/pull/1) in [paneendrakumar0/portfolio](https://github.com/paneendrakumar0/portfolio)
+1. 🎉 Merged PR [#3](https://github.com/paneendrakumar0/dual-arm-interception-simulation/pull/3) in [paneendrakumar0/dual-arm-interception-simulation](https://github.com/paneendrakumar0/dual-arm-interception-simulation)
 <!--END_SECTION:activity-->
 
 ---
