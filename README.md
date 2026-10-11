@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/paneendrakumar0/uav-autonomous-telemetry/pull/8) in [paneendrakumar0/uav-autonomous-telemetry](https://github.com/paneendrakumar0/uav-autonomous-telemetry)
+1. 💪 Opened PR [#737](https://github.com/petercorke/robotics-toolbox-python/pull/737) in [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python)
 <!--END_SECTION:activity-->
 
 ---
