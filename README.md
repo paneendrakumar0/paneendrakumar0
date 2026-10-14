@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8748](https://github.com/sqlfluff/sqlfluff/pull/8748#issuecomment-6162859027) in [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
+1. 🎉 Merged PR [#737](https://github.com/petercorke/robotics-toolbox-python/pull/737) in [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python)
 <!--END_SECTION:activity-->
 
 ---
