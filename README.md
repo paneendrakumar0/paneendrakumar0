@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3076](https://github.com/marshmallow-code/marshmallow/pull/3076) in [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
+1. 🗣 Commented on [#8748](https://github.com/sqlfluff/sqlfluff/pull/8748#issuecomment-6162859027) in [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
 <!--END_SECTION:activity-->
 
 ---
