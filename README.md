@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#737](https://github.com/petercorke/robotics-toolbox-python/pull/737) in [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python)
+1. 💪 Opened PR [#122](https://github.com/ros-perception/laser_geometry/pull/122) in [ros-perception/laser_geometry](https://github.com/ros-perception/laser_geometry)
 <!--END_SECTION:activity-->
 
 ---
