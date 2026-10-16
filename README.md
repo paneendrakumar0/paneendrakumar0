@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15193](https://github.com/pytest-dev/pytest/pull/15193) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+1. 💪 Opened PR [#818](https://github.com/petercorke/robotics-toolbox-python/pull/818) in [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python)
 <!--END_SECTION:activity-->
 
 ---
