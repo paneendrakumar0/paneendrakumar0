@@ -216,10 +216,10 @@ CMake                    1 repo              █░░░░░░░░░░�
 ### 📦 Live Repository Footprint
 
 <!--START_SECTION:repository-footprint-->
-![Public Repository Storage](https://img.shields.io/badge/Public%20Repo%20Storage-1%2C770.4%20MB-2196F3?style=flat)
+![Public Repository Storage](https://img.shields.io/badge/Public%20Repo%20Storage-2%2C562.8%20MB-2196F3?style=flat)
 ![Source Lines](https://img.shields.io/badge/Source%20Lines-133%2C381-2196F3?style=flat)
 
-> 📦 **1,770.4 MB** across 46 public repositories
+> 📦 **2,562.8 MB** across 50 public repositories
 >
 > 🧮 **133,381 source lines** across 31 owned, non-fork repositories
 >
