@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3932](https://github.com/moveit/moveit2/pull/3932) in [moveit/moveit2](https://github.com/moveit/moveit2)
+1. 💪 Opened PR [#4816](https://github.com/bulletphysics/bullet3/pull/4816) in [bulletphysics/bullet3](https://github.com/bulletphysics/bullet3)
 <!--END_SECTION:activity-->
 
 ---
