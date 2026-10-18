@@ -154,20 +154,20 @@ PowerShell         2 hrs 26 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                435 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-🌆 Daytime                1936 commits        ████████████░░░░░░░░░░░░░   49.83 % 
-🌃 Evening                1353 commits        █████████░░░░░░░░░░░░░░░░   34.83 % 
-🌙 Night                  161 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+🌞 Morning                435 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+🌆 Daytime                1937 commits        ████████████░░░░░░░░░░░░░   49.83 % 
+🌃 Evening                1353 commits        █████████░░░░░░░░░░░░░░░░   34.81 % 
+🌙 Night                  162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Tuesday                  217 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Wednesday                448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Thursday                 1567 commits        ██████████░░░░░░░░░░░░░░░   40.33 % 
+Monday                   281 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Tuesday                  217 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Wednesday                449 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Thursday                 1567 commits        ██████████░░░░░░░░░░░░░░░   40.31 % 
 Friday                   181 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Saturday                 726 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Saturday                 726 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
 Sunday                   466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
 ```
 
@@ -178,23 +178,22 @@ Sunday                   466 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 3 mins              ████████░░░░░░░░░░░░░░░░░   32.33 % 
-Text                     2 mins              ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-Python                   2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Git Config               2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Text                     2 mins              ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+Markdown                 2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+Python                   2 mins              ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+Git Config               2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
 
 🔥 Editors: 
-Antigravity IDE          8 mins              ████████████████████░░░░░   80.01 % 
-Codex Vscode             2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Antigravity IDE          8 mins              ██████████████████████░░░   89.35 % 
+Codex Vscode             1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 
 🐱‍💻 Projects: 
-Fatigue                  8 mins              ████████████████████░░░░░   80.01 % 
-review-recent-email-and-c1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-give-me-a-morning-brief-w0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-review-what-i-worked-on-t0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Fatigue                  8 mins              ██████████████████████░░░   89.35 % 
+review-recent-email-and-c1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+give-me-a-morning-brief-w0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -210,7 +209,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 21:17:46 UTC
+ Last Updated on 18/10/2026 23:54:24 UTC
 <!--END_SECTION:waka-->
 
 ### 📦 Live Repository Footprint
