@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7054](https://github.com/cyberbotics/webots/pull/7054) in [cyberbotics/webots](https://github.com/cyberbotics/webots)
+1. 💪 Opened PR [#1129](https://github.com/gazebosim/gz-physics/pull/1129) in [gazebosim/gz-physics](https://github.com/gazebosim/gz-physics)
 <!--END_SECTION:activity-->
 
 ---
