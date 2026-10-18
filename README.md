@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2707](https://github.com/ros-controls/ros2_controllers/pull/2707) in [ros-controls/ros2_controllers](https://github.com/ros-controls/ros2_controllers)
+1. 🗣 Commented on [#1258](https://github.com/python-control/python-control/pull/1258#issuecomment-6254047788) in [python-control/python-control](https://github.com/python-control/python-control)
 <!--END_SECTION:activity-->
 
 ---
