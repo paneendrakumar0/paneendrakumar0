@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4992](https://github.com/huggingface/lerobot/pull/4992#issuecomment-6260744656) in [huggingface/lerobot](https://github.com/huggingface/lerobot)
+1. 💪 Opened PR [#1002](https://github.com/ros2/geometry2/pull/1002) in [ros2/geometry2](https://github.com/ros2/geometry2)
 <!--END_SECTION:activity-->
 
 ---
