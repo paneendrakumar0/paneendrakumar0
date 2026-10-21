@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1130](https://github.com/gazebosim/gz-physics/pull/1130) in [gazebosim/gz-physics](https://github.com/gazebosim/gz-physics)
+1. 🗣 Commented on [#30435](https://github.com/opencv/opencv/pull/30435#issuecomment-6314829602) in [opencv/opencv](https://github.com/opencv/opencv)
 <!--END_SECTION:activity-->
 
 ---
