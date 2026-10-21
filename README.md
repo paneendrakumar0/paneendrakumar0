@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30435](https://github.com/opencv/opencv/pull/30435#issuecomment-6314829602) in [opencv/opencv](https://github.com/opencv/opencv)
+1. 💪 Opened PR [#7606](https://github.com/isl-org/Open3D/pull/7606) in [isl-org/Open3D](https://github.com/isl-org/Open3D)
 <!--END_SECTION:activity-->
 
 ---
