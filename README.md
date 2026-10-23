@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30435](https://github.com/opencv/opencv/pull/30435) in [opencv/opencv](https://github.com/opencv/opencv)
+1. 🗣 Commented on [#34858](https://github.com/ArduPilot/ardupilot/pull/34858#issuecomment-6369499730) in [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
 <!--END_SECTION:activity-->
 
 ---
