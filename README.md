@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29410](https://github.com/PX4/PX4-Autopilot/pull/29410) in [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+1. 🗣 Commented on [#34854](https://github.com/ArduPilot/ardupilot/issues/34854#issuecomment-6368624862) in [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
 <!--END_SECTION:activity-->
 
 ---
