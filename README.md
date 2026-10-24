@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#615](https://github.com/norlab-ulaval/libpointmatcher/pull/615) in [norlab-ulaval/libpointmatcher](https://github.com/norlab-ulaval/libpointmatcher)
+1. 🎉 Merged PR [#15193](https://github.com/pytest-dev/pytest/pull/15193) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
 <!--END_SECTION:activity-->
 
 ---
