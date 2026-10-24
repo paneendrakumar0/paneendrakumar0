@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2870](https://github.com/borglab/gtsam/pull/2870#issuecomment-6365756814) in [borglab/gtsam](https://github.com/borglab/gtsam)
+1. 💪 Opened PR [#123](https://github.com/ros-perception/laser_geometry/pull/123) in [ros-perception/laser_geometry](https://github.com/ros-perception/laser_geometry)
 <!--END_SECTION:activity-->
 
 ---
