@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#123](https://github.com/ros-perception/laser_geometry/pull/123) in [ros-perception/laser_geometry](https://github.com/ros-perception/laser_geometry)
+1. 💪 Opened PR [#615](https://github.com/norlab-ulaval/libpointmatcher/pull/615) in [norlab-ulaval/libpointmatcher](https://github.com/norlab-ulaval/libpointmatcher)
 <!--END_SECTION:activity-->
 
 ---
