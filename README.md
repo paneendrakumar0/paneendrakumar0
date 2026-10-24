@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34854](https://github.com/ArduPilot/ardupilot/issues/34854#issuecomment-6368624862) in [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
+1. 🗣 Commented on [#2870](https://github.com/borglab/gtsam/pull/2870#issuecomment-6365756814) in [borglab/gtsam](https://github.com/borglab/gtsam)
 <!--END_SECTION:activity-->
 
 ---
