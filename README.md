@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15193](https://github.com/pytest-dev/pytest/pull/15193) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+1. 💪 Opened PR [#348](https://github.com/micro-ROS/rmw_microxrcedds/pull/348) in [micro-ROS/rmw_microxrcedds](https://github.com/micro-ROS/rmw_microxrcedds)
 <!--END_SECTION:activity-->
 
 ---
