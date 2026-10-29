@@ -149,26 +149,26 @@ PowerShell         2 hrs 26 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.52%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-🌆 Daytime                1920 commits        ████████████░░░░░░░░░░░░░   48.51 % 
-🌃 Evening                1407 commits        █████████░░░░░░░░░░░░░░░░   35.55 % 
-🌙 Night                  177 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+🌞 Morning                457 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+🌆 Daytime                1923 commits        ████████████░░░░░░░░░░░░░   48.41 % 
+🌃 Evening                1410 commits        █████████░░░░░░░░░░░░░░░░   35.50 % 
+🌙 Night                  182 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Tuesday                  229 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Wednesday                433 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Thursday                 1572 commits        ██████████░░░░░░░░░░░░░░░   39.72 % 
-Friday                   207 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Saturday                 741 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Sunday                   481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Monday                   295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Tuesday                  229 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Wednesday                435 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Thursday                 1581 commits        ██████████░░░░░░░░░░░░░░░   39.80 % 
+Friday                   210 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Saturday                 741 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Sunday                   481 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 ```
 
 
@@ -193,17 +193,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
-C++                      24 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-CMake                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Python                   25 repos            █████████░░░░░░░░░░░░░░░░   36.23 % 
+C++                      24 repos            █████████░░░░░░░░░░░░░░░░   34.78 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+CMake                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 
 
 
- Last Updated on 29/10/2026 01:52:01 UTC
+ Last Updated on 29/10/2026 11:06:43 UTC
 <!--END_SECTION:waka-->
 
 ### 📦 Live Repository Footprint
