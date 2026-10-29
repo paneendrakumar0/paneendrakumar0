@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7054](https://github.com/cyberbotics/webots/pull/7054#issuecomment-6498381729) in [cyberbotics/webots](https://github.com/cyberbotics/webots)
+1. 💪 Opened PR [#3951](https://github.com/moveit/moveit2/pull/3951) in [moveit/moveit2](https://github.com/moveit/moveit2)
 <!--END_SECTION:activity-->
 
 ---
