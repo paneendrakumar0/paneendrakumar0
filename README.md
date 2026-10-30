@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3951](https://github.com/moveit/moveit2/pull/3951) in [moveit/moveit2](https://github.com/moveit/moveit2)
+1. 🗣 Commented on [#123](https://github.com/ros-perception/laser_geometry/pull/123#issuecomment-6503224912) in [ros-perception/laser_geometry](https://github.com/ros-perception/laser_geometry)
 <!--END_SECTION:activity-->
 
 ---
