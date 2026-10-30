@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6604](https://github.com/eProsima/Fast-DDS/pull/6604) in [eProsima/Fast-DDS](https://github.com/eProsima/Fast-DDS)
+1. 🎉 Merged PR [#7297](https://github.com/ros2/ros2_documentation/pull/7297) in [ros2/ros2_documentation](https://github.com/ros2/ros2_documentation)
 <!--END_SECTION:activity-->
 
 ---
