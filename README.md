@@ -122,7 +122,7 @@ I am an engineering student passionate about **IoT**, **Mechatronics**, **Roboti
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#352](https://github.com/ros2/common_interfaces/pull/352) in [ros2/common_interfaces](https://github.com/ros2/common_interfaces)
+1. 🎉 Merged PR [#348](https://github.com/micro-ROS/rmw_microxrcedds/pull/348) in [micro-ROS/rmw_microxrcedds](https://github.com/micro-ROS/rmw_microxrcedds)
 <!--END_SECTION:activity-->
 
 ---
